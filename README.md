@@ -14,19 +14,16 @@ Stop spending hours in PowerPoint. `slide-gen` is a Claude Code skill that turns
 
 <table>
   <tr>
-    <td><img src="assets/01-slide-cover.png" alt="Cover slide" /></td>
-    <td><img src="assets/04-slide-milestones.png" alt="Timeline slide" /></td>
+    <td align="center"><b>Japanese Minimal</b><br/><img src="assets/style1-japanese-minimal.png" alt="Japanese minimal style — precise spacing, craft in every detail" /></td>
+    <td align="center"><b>Scientific Chart-First</b><br/><img src="assets/style2-scientific-chart.png" alt="Scientific style — data visualization as the hero" /></td>
   </tr>
   <tr>
-    <td><img src="assets/05-slide-crisis-center.png" alt="Concept slide" /></td>
-    <td><img src="assets/07-slide-international.png" alt="International slide" /></td>
-  </tr>
-  <tr>
-    <td colspan="2"><img src="assets/08-slide-research.png" alt="Research slide" /></td>
+    <td align="center"><b>Business Dense</b><br/><img src="assets/style3-business-dense.png" alt="Business style — McKinsey density, every pixel earns its place" /></td>
+    <td align="center"><b>Cute & Playful</b><br/><img src="assets/style4-cute-cat.png" alt="Playful style — cat mascot breaking out of frame" /></td>
   </tr>
 </table>
 
-*All slides above were generated from a plain text outline in a single run — no manual editing.*
+*All slides above were generated from a plain text description in a single run — no templates, no manual editing.*
 
 ---
 
